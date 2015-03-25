@@ -10,9 +10,9 @@
 1. action_view
 
 <h2>Steps to run the app<h2>
-1. Open your terminal
-2. Go to app folder
-3. Run the command 'ruby script.rb'
+<p>1. Open your terminal</p>
+<p>2. Go to app folder</p>
+<p>3. Run the command 'ruby script.rb'</p>
 
 Note: Log file (log.txt) must be in the app folder
 
